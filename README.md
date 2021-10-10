@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include<conio.h>
 
-//Compiler version gcc  6.3.0
 void main()
 {
  int i, j,space;
